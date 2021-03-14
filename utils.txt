@@ -1,1 +1,3 @@
 Utility functions are here used by index.txt
+
+added some functions for version 2
